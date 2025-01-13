@@ -1,0 +1,18 @@
+.carrousel-container {
+    margin: 4rem 2rem;
+}
+
+#carousel-list {
+    height: fit-content;
+    display: inline-flex;
+
+    width: auto;
+
+    gap: 1rem;
+
+}
+
+#carousel-img {
+    max-width: 100%;
+    width: 100%;
+}

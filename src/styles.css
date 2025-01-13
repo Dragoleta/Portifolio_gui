@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+    font-family: "Chonburi";
+
+    /* background-color: black; */
+    /* color: aliceblue; */
+    /* background-color: rgb(241, 211, 186); */
+    background-color: rgb(155, 129, 111);
+
+    color: black;
+
+}
+
+
+ul {
+    list-style: none;
+}

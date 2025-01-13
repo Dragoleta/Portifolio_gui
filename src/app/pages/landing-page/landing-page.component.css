@@ -1,0 +1,27 @@
+.content-wrapper {
+    width: auto;
+    height: 100dvh;
+
+    margin: auto auto;
+    align-content: center;
+}
+
+.img-container {
+    margin: 0 5dvw;
+
+}
+
+.img-container img {
+    max-width: 1140px;
+    width: 100%;
+}
+
+.img-carrousel {
+    height: 7%;
+    width: 70%;
+
+    margin: 2rem auto;
+
+
+    /* background-color: white; */
+}
