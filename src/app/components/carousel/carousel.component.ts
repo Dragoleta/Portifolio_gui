@@ -10,7 +10,7 @@ import { ImageServices } from '../../services/image.service';
     <div class="carrousel-container">
       <ul id="carousel-list">
         <li *ngFor="let x of imgs">
-          <img [src]="x" alt="" id="carousel-img" />
+          <img [src]="x" alt="" id="carousel-img" alt="Carousel IMG" />
         </li>
       </ul>
     </div>
